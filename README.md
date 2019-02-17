@@ -5,7 +5,7 @@ The intention of this scraper is to generate a json output suitable for importin
 
 # How to use it yourself
 
-1. Set up a python3 virtual environment:
+1. Set up a python3 virtual environment in the source directory:
 
 `$ python3 -m venv venv`
 
